@@ -4,8 +4,8 @@
 
 ### 🚀 Technology Student | Full Stack Developer | Content Creator
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/khana_assim?style=social)](https://twitter.com/khana_assim)
-[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asim-khan-99b7181b9)](https://www.linkedin.com/in/asim-khan-99b7181b9)
+[![Twitter Follow](https://img.shields.io/twitter/follow/khana_asim?style=social)](https://x.com/khana_asim)
+[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asim-khan01)](https://www.linkedin.com/in/asim-khan01)
 [![YouTube](https://img.shields.io/badge/-Subscribe-red?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCn3RDFlQSLKeUKlWKZ4itgg)
 [![GitHub followers](https://img.shields.io/github/followers/Asim-khan972?label=Follow&style=social)](https://github.com/Asim-khan972)
 
@@ -145,8 +145,8 @@ const asimKhan = {
 
 I'm always excited to collaborate on interesting projects or just chat about technology!
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/khana_assim)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asim-khan-99b7181b9)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/khana_asim)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asim-khan01)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCn3RDFlQSLKeUKlWKZ4itgg)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asim-khan972)
 
