@@ -39,8 +39,14 @@ I believe in the power of technology to transform lives and am committed to grow
 - 🎓 **Studying Technology** - Constantly learning and growing
 - 💻 **Building Projects** - Turning ideas into reality with code
 - 📹 **Creating Content** - Sharing my journey on [YouTube](https://www.youtube.com/channel/UCn3RDFlQSLKeUKlWKZ4itgg)
+- ✍️ **Writing Blogs** - Check out my articles on [DEV Community](https://dev.to/asim_khan_cbe65e41bcbbc65)
 - 🌱 **Growing Daily** - Always exploring new technologies and frameworks
 - 🤝 **Open to Collaborate** - Love working on interesting projects
+
+## 🌟 Featured Blog
+
+### Solving the Punycode Module is Deprecated Issue in Node.js
+[Read my popular blog post](https://dev.to/asim_khan_cbe65e41bcbbc65/solving-the-punycode-module-is-deprecated-issue-in-nodejs-2e59) where I explain how to resolve a common Node.js issue with the punycode module.
 
 ## 🛠️ Tech Stack
 
@@ -77,7 +83,8 @@ I'm always excited to collaborate on interesting projects or just chat about tec
 [Twitter](https://x.com/khana_asim) | 
 [LinkedIn](https://www.linkedin.com/in/asim-khan01) | 
 [YouTube](https://www.youtube.com/channel/UCn3RDFlQSLKeUKlWKZ4itgg) | 
-[GitHub](https://github.com/Asim-khan972)
+[GitHub](https://github.com/Asim-khan972) | 
+[DEV Community](https://dev.to/asim_khan_cbe65e41bcbbc65)
 
 ---
 
