@@ -16,17 +16,56 @@
 ## 🎯 About Me
 
 ```typescript
-const asimKhan = {
-    pronouns: "He" | "Him",
-    location: "Pakistan 🇵🇰",
-    currentFocus: "Full Stack Development",
-    learning: ["React", "Next.js", "Node.js", "TypeScript"],
-    goals: ["Build impactful projects", "Share knowledge", "Grow as a developer"],
-    philosophy: "Code. Learn. Repeat. 🔄",
-    askMeAbout: ["Web Dev", "Tech", "Content Creation"],
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
+interface Developer {
+  readonly name: string;
+  readonly pronouns: string[];
+  location: string;
+  currentFocus: string;
+  learning: string[];
+  goals: string[];
+  philosophy: string;
+  askMeAbout: string[];
+  funFact: string;
+}
+
+const asimKhan: Developer = {
+  name: "Asim Khan",
+  pronouns: ["He", "Him"],
+  location: "Pakistan 🇵🇰",
+  currentFocus: "Full Stack Development & Content Creation",
+  learning: [
+    "React", 
+    "Next.js", 
+    "Node.js", 
+    "TypeScript", 
+    "Cloud Technologies"
+  ],
+  goals: [
+    "Build impactful projects that solve real-world problems",
+    "Share knowledge through content creation",
+    "Grow as a developer and mentor others"
+  ],
+  philosophy: "Code. Learn. Repeat. 🔄",
+  askMeAbout: [
+    "Web Development", 
+    "Modern JavaScript & TypeScript",
+    "React & Next.js Ecosystem",
+    "Content Creation",
+    "Tech Trends"
+  ],
+  funFact: "I debug with console.log() and I'm proud of it! 😄"
 };
+
+console.log(`👋 Hi, I'm ${asimKhan.name}!`);
+console.log(`📍 Based in ${asimKhan.location}`);
+console.log(`🎯 Currently focusing on ${asimKhan.currentFocus}`);
 ```
+
+## 🧠 My Developer Journey
+
+As a passionate technology student from Pakistan, I'm dedicated to mastering the art of full-stack development. My journey involves continuous learning, building impactful projects, and sharing knowledge through content creation.
+
+I believe in the power of technology to transform lives and am committed to growing as a developer while contributing to the community.
 
 ## 💼 What I Do
 
@@ -72,7 +111,7 @@ const asimKhan = {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asim-khan972&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asim-khan972&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asim-khan972&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866)
 
 </div>
 
