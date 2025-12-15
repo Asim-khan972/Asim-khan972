@@ -15,51 +15,18 @@
 
 ## 🎯 About Me
 
-```typescript
-interface Developer {
-  readonly name: string;
-  readonly pronouns: string[];
-  location: string;
-  currentFocus: string;
-  learning: string[];
-  goals: string[];
-  philosophy: string;
-  askMeAbout: string[];
-  funFact: string;
-}
+I'm Asim Khan, a passionate technology student from Pakistan 🇵🇰, currently focusing on Full Stack Development & Content Creation. 
 
-const asimKhan: Developer = {
-  name: "Asim Khan",
-  pronouns: ["He", "Him"],
-  location: "Pakistan 🇵🇰",
-  currentFocus: "Full Stack Development & Content Creation",
-  learning: [
-    "React", 
-    "Next.js", 
-    "Node.js", 
-    "TypeScript", 
-    "Cloud Technologies"
-  ],
-  goals: [
-    "Build impactful projects that solve real-world problems",
-    "Share knowledge through content creation",
-    "Grow as a developer and mentor others"
-  ],
-  philosophy: "Code. Learn. Repeat. 🔄",
-  askMeAbout: [
-    "Web Development", 
-    "Modern JavaScript & TypeScript",
-    "React & Next.js Ecosystem",
-    "Content Creation",
-    "Tech Trends"
-  ],
-  funFact: "I debug with console.log() and I'm proud of it! 😄"
-};
+I'm constantly learning and exploring new technologies, with a particular interest in React, Next.js, Node.js, and TypeScript. My goal is to build impactful projects that solve real-world problems while sharing my knowledge through content creation.
 
-console.log(`👋 Hi, I'm ${asimKhan.name}!`);
-console.log(`📍 Based in ${asimKhan.location}`);
-console.log(`🎯 Currently focusing on ${asimKhan.currentFocus}`);
-```
+**Current Focus:** Building full-stack applications with modern tech stack
+
+**Learning:** React, Next.js, Node.js, TypeScript, Cloud Technologies
+
+**Goals:** 
+- Build impactful projects that solve real-world problems
+- Share knowledge through content creation
+- Grow as a developer and mentor others
 
 ## 🧠 My Developer Journey
 
@@ -103,104 +70,16 @@ I believe in the power of technology to transform lives and am committed to grow
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Asim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asim-khan972&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asim-khan972&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asim-khan972&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Asim-khan972&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
-## 📈 Contribution Graph
-
-[![Asim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Asim-khan972&theme=react-dark&hide_border=true&area=true)](https://github.com/Asim-khan972)
-
-## 🎯 Current Focus
-
-```diff
-+ Building full-stack applications with modern tech stack
-+ Learning advanced React patterns and state management
-+ Exploring cloud technologies and DevOps practices
-+ Creating educational content for developers
-! Always open to learning new technologies
-```
-
-## 🌟 Featured Projects
-
-<!-- Add your best projects here -->
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🚀 [Project 1](#) | Your awesome project description | React, Node.js, MongoDB |
-| 💡 [Project 2](#) | Another amazing project | Next.js, TypeScript, PostgreSQL |
-| 🔥 [Project 3](#) | Cool project you built | Python, FastAPI, Docker |
-
-</div>
-
-## 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- Coming Soon! Subscribe to stay updated 🔔
-<!-- YOUTUBE:END -->
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- Coming Soon! Follow me for updates 📚
-<!-- BLOG-POST-LIST:END -->
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-## 🎮 When I'm Not Coding
-
-- 📹 Creating tech content on YouTube
-- 📚 Reading tech blogs and documentation
-- 🎯 Learning new programming languages
-- 🎸 Exploring creative hobbies
-- 🌐 Networking with fellow developers
-
 ## 🤝 Let's Connect!
-
-<div align="center">
 
 I'm always excited to collaborate on interesting projects or just chat about technology!
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/khana_asim)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asim-khan01)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCn3RDFlQSLKeUKlWKZ4itgg)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asim-khan972)
-
-### 💬 Or just drop me a message!
-
-</div>
+[Twitter](https://x.com/khana_asim) | 
+[LinkedIn](https://www.linkedin.com/in/asim-khan01) | 
+[YouTube](https://www.youtube.com/channel/UCn3RDFlQSLKeUKlWKZ4itgg) | 
+[GitHub](https://github.com/Asim-khan972)
 
 ---
 
-<div align="center">
-
 ### 💖 Thank you for visiting my profile!
-
-![Visitor Count](https://profile-counter.glitch.me/Asim-khan972/count.svg)
-
 ⭐️ From [Asim-khan972](https://github.com/Asim-khan972) with ❤️
-
-</div>
